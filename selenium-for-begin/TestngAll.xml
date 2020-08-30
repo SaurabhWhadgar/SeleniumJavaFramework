@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NgTestAll" verbose="1">
+	<test name="ngTestAll">
+		<parameter name="userText" value="PositiveTest"></parameter>
+		<classes>
+			<class name="testng.udemy.learn.TestngAnnotation">
+				<methods>
+					<include name="positiveTest"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
