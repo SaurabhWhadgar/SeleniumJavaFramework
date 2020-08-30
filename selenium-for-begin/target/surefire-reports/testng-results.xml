@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15149" started-at="2020-08-29T09:50:52Z" finished-at="2020-08-29T09:51:08Z">
+    <groups>
+    </groups>
+    <test name="GoogleTest" duration-ms="15149" started-at="2020-08-29T09:50:52Z" finished-at="2020-08-29T09:51:08Z">
+      <class name="com.herokuapp.theinternet.GoogleTest">
+        <test-method status="PASS" signature="googleTest()[pri:0, instance:com.herokuapp.theinternet.GoogleTest@783e6358]" name="googleTest" duration-ms="15094" started-at="2020-08-29T09:50:53Z" finished-at="2020-08-29T09:51:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.herokuapp.theinternet.GoogleTest@783e6358]" name="afterTest" is-config="true" duration-ms="2" started-at="2020-08-29T09:51:08Z" finished-at="2020-08-29T09:51:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.herokuapp.theinternet.GoogleTest -->
+    </test> <!-- GoogleTest -->
+  </suite> <!-- Suite -->
+</testng-results>
