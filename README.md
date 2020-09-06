@@ -50,3 +50,25 @@ Selenium Automation Testing Projects
 - Collections
 - Using them in selenium
 - Ending the youtube courser
+
+# Tuesday - 1 Sept
+- Inheritance
+- Abstract Class
+# Wednesday - 2 Sept
+- JSON object, Parsing
+
+# Thursday - 3 Sept
+- Alert
+- Litmos
+- Log4j
+
+# Friday - 4 Sept
+- Scroll
+- group Test
+- Litmos
+
+# Saturday - 5 Sept
+- Litmos
+
+# Sunday - 6 Sept
+- Collection in java
